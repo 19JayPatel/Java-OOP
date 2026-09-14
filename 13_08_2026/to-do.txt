@@ -1,0 +1,7 @@
+Q1 - Reverse in string
+
+Q2 - Fibonacci series
+
+Q3 - Check vowel or constant
+
+Q4 - Using switch case tell me month

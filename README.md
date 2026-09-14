@@ -1,6 +1,10 @@
 # Java-OOP
 
-A day-by-day log of my Java and Object-Oriented Programming practice — from core basics (loops, Scanner input, constructors) up to small, "industry ready" style mini-projects like a flight booking system and a POS billing engine.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="80" />
+</p>
+
+A day-by-day log of my Java and Object-Oriented Programming practice — from core to basics.
 
 ## 📁 Folder structure
 

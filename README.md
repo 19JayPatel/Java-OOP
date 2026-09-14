@@ -1,7 +1,7 @@
 # Java-OOP
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="80" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="180" />
 </p>
 
 A day-by-day log of my Java and Object-Oriented Programming practice — from core to basics.

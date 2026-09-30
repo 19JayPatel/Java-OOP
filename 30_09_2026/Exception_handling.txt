@@ -1,0 +1,7 @@
+Exception handling:
+handle runtime errors 
+
+using try and catch 
+
+1. The try Block:
+---
